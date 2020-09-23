@@ -1,0 +1,35 @@
+*********************************************************
+ AUTHOR: Roberto Mior
+ reexre@gmail.com
+ Suggestions or new Tools are wellcome!
+ Most Function taken from http://paulbourke.net/geometry
+*********************************************************
+
+(Line is intended a Segment)
+
+INTERSECTION:
+Line Line Intersection
+Line Line Intersection (not Segments)
+Circle Circle Intersection
+Circle-LineSegment Intersection
+
+BUILD:
+Circle from 3 Points
+Tangents of 2 Circles
+Fillet: Find Arc (of a given radius) tangent to two lines
+
+VECTORS:
+Vector Projection
+Vector Reflection
+   "   SUM
+   "   Subtract
+   "   Dot Product
+   "   Cross Product
+   "   Magnitude
+   "   Normalized
+
+
+Nearest point on Line
+Angle Difference
+Fast Atan2 Approximation
+Line Offset

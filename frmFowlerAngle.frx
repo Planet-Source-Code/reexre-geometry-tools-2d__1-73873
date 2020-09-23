@@ -1,0 +1,6 @@
+ÿBFast Atan2 Approximation. Based on a 50-year old atan approximation 
+due to Hastings. It has |error| < 0.005, and (with all relevant optimizations 
+in gcc) is 3-5x faster than atan2 in spite of two horrible divisions in the main code path.
+http://lists.apple.com/archives/perfoptimization-dev/2005/Jan/msg00051.
+html
+TXT
